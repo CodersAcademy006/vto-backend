@@ -2,3 +2,4 @@ fastapi
 uvicorn
 python-multipart
 google-genai
+google-generativeai>=0.3.2
